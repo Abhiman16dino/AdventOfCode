@@ -1,0 +1,1 @@
+This contain solution for Advent for Code 2023 in Rust
